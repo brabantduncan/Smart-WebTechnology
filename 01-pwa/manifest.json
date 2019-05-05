@@ -1,0 +1,24 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "name": "Roses & Co",
+  "scope": "/",
+  "display": "standalone",
+  "start_url": "/",
+  "short_name": "R&C",
+  "theme_color": "transparent",
+  "description": "Roses & Co",
+  "orientation": "any",
+  "background_color": "transparent",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "https://www.duncanbrabant.be/assets/images/3022cf58cbc1c5a01de004e504d16ad8-128x128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    }
+  ],
+  "gcm_sender_id": "103953800507"
+
+}
